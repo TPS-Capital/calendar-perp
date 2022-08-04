@@ -1,5 +1,4 @@
 # calendar-perp 
-Data layer for NFT market making
 
 
 ## Install
